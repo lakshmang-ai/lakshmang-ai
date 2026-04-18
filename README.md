@@ -1,18 +1,19 @@
 # 👋 Hi, I'm Lakshman Guguloth
 
-🚀 AI/ML Engineer | GenAI | RAG | Agentic AI | Python | FastAPI | SQL | AWS  
-💡 6+ years in AI/ML & Generative AI (RAG, Agentic AI)  
-💡 Specializing in RAG pipelines, Agentic AI workflows, and scalable AI architectures  
+🚀 AI/ML Engineer | GenAI | Agentic AI | RAG | Python | FastAPI | React | Streamlit | PostgreSQL | AWS  
+💡 6+ years in AI/ML & Generative AI, including RAG and Agentic AI systems  
+💡 Specializing in scalable AI architectures, intelligent workflows, and end-to-end AI applications  
 💡 20+ years in IT | Building production-grade AI systems  
 
 ---
 
 ## 🧠 About Me
 - Designing and building **AI/ML & Generative AI applications**
-- Developing **RAG-based intelligent systems** for real-world use cases
-- Building **Agentic AI systems** using LangGraph / CrewAI
-- Creating **scalable backend services** with FastAPI & microservices
-- Implementing **end-to-end pipelines** (OCR → LLM → DB → APIs)
+- Developing **RAG-based intelligent systems** for enterprise use cases
+- Building **Agentic AI systems** using LangGraph / CrewAI with tool usage & memory
+- Creating **scalable backend services** using FastAPI & microservices architecture
+- Developing **end-to-end AI applications** (UI → API → LLM → DB → Automation)
+- Implementing **OCR + LLM pipelines** for document intelligence and automation
 
 ---
 
@@ -24,8 +25,11 @@ Python | SQL
 ### 🔹 AI/ML & GenAI
 OpenAI | Hugging Face | Transformers | LLMs  
 
-### 🔹 Frameworks
+### 🔹 Frameworks & AI Orchestration
 LangChain | LangGraph | CrewAI | FastAPI  
+
+### 🔹 Frontend / UI
+React | Streamlit  
 
 ### 🔹 Data & Databases
 PostgreSQL | Vector DBs (FAISS, Pinecone, Weaviate, Chroma)  
@@ -38,13 +42,23 @@ AWS | Azure | Docker | GitHub Actions | MLflow
 ## 📂 Featured Projects (Coming Soon)
 
 ### 🔹 AI Healthcare Chatbot (RAG + SQL)
-Hybrid chatbot combining **vector search + structured DB queries** using LangChain + FastAPI  
+- Hybrid chatbot combining **vector search + structured database queries**
+- Built using **LangChain + FastAPI + PostgreSQL**
+- Supports contextual Q&A and patient data retrieval  
+
+---
 
 ### 🔹 Intelligent Document Automation (Banking)
-OCR + LLM pipeline for **form extraction, validation, and processing**  
+- OCR + LLM pipeline for **form extraction, validation, and processing**
+- Automated PDF generation and email workflows  
+- Built using **FastAPI + PostgreSQL + AWS**  
+
+---
 
 ### 🔹 Agentic AI System
-Multi-agent workflows with **tool usage, memory, and reasoning** using LangGraph / CrewAI  
+- Multi-agent workflows using **LangGraph / CrewAI**
+- Supports **tool usage, reasoning, memory, and task orchestration**
+- Designed for real-world automation use cases  
 
 ---
 
@@ -52,7 +66,8 @@ Multi-agent workflows with **tool usage, memory, and reasoning** using LangGraph
 - Production-ready AI systems  
 - Scalable architecture design  
 - LLM evaluation & optimization  
-- Real-world business use cases  
+- Agentic workflows and automation  
+- Real-world enterprise AI use cases  
 
 ---
 
