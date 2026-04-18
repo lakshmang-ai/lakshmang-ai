@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Lakshman G
 
 🚀 AI/ML Engineer | GenAI | RAG | Agentic AI | Python | FastAPI | SQL | AWS  
+💡 6+ years in AI/ML & Generative AI (RAG, Agentic AI)  
+💡 Specializing in RAG pipelines, Agentic AI workflows, and scalable AI architectures  
 💡 20+ years in IT | Building production-grade AI systems  
 
 ---
@@ -29,33 +31,33 @@ LangChain | LangGraph | CrewAI | FastAPI
 PostgreSQL | Vector DBs (FAISS, Pinecone, Weaviate, Chroma)  
 
 ### 🔹 Cloud & DevOps
-AWS | Azure | Docker | GitHub Actions  
+AWS | Azure | Docker | GitHub Actions | MLflow  
 
 ---
 
 ## 📂 Featured Projects (Coming Soon)
 
 ### 🔹 AI Healthcare Chatbot (RAG + SQL)
-Hybrid chatbot combining **vector search + structured DB queries**
+Hybrid chatbot combining **vector search + structured DB queries** using LangChain + FastAPI  
 
-### 🔹 Intelligent Document Automation
-OCR + LLM pipeline for **banking form processing & validation**
+### 🔹 Intelligent Document Automation (Banking)
+OCR + LLM pipeline for **form extraction, validation, and processing**  
 
 ### 🔹 Agentic AI System
-Multi-agent workflows with **tool usage, memory, and reasoning**
+Multi-agent workflows with **tool usage, memory, and reasoning** using LangGraph / CrewAI  
 
 ---
 
 ## 📊 What I Focus On
-- Production-ready AI systems
-- Scalable architecture design
-- LLM evaluation & optimization
-- Real-world business use cases
+- Production-ready AI systems  
+- Scalable architecture design  
+- LLM evaluation & optimization  
+- Real-world business use cases  
 
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/your-profile
+- LinkedIn: https://www.linkedin.com/in/lakshman-gugloth-ai  
 
 ---
 
