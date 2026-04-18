@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Lakshman G
+# 👋 Hi, I'm Lakshman Guguloth
 
 🚀 AI/ML Engineer | GenAI | RAG | Agentic AI | Python | FastAPI | SQL | AWS  
 💡 6+ years in AI/ML & Generative AI (RAG, Agentic AI)  
